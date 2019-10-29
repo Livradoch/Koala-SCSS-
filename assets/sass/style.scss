@@ -1,0 +1,47 @@
+@import "reset.scss";
+@import "variables.scss";
+@import "mixins.scss";
+
+p, section{
+    font-size: 2rem;
+}
+
+
+/*********************************
+************SECTION 1*************
+**********************************/
+
+#section1{
+    // background: $red;
+    @include flex(space-between, center);
+    p{
+
+    }
+}
+
+reset,
+variables
+typos
+mixin
+debug
+layout = margins container padding 
+buttons
+
+sections
+
+responsive
+
+
+
+/*********************************
+************SECTION 1*************
+**********************************/
+
+
+#section2{
+    // background: $blue;
+}
+
+#section3{
+    // background: $green;
+}
